@@ -4,7 +4,7 @@ import Cards from '../Cards';
 import HeroSection from '../HeroSection';
 import Footer from '../Footer';
 
-function home() {
+function Home() {
   return (
     <>
       <HeroSection />
@@ -14,4 +14,4 @@ function home() {
   );
 }
 
-export default home;
+export default Home;
